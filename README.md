@@ -1,5 +1,5 @@
 <div id="about-me">
-  <h1>👋 Hello there</h1>
+  <h1>👋 Hello there!</h1>
   <p>
     I am a Software Developer and Machine Learn Engineer.<br />
     I have made API's to automatic decision, credit engine and scripts. 
@@ -7,7 +7,7 @@
 </div>
 <br />
 <div id="social-media" style="display: inline_block; margin-bottom: 10px">
-  <h2>🌐 Socials</h2>
+  <h2>🌐 Let's Chat?</h2>
   <a href="https://www.linkedin.com/in/tiagomello-datascientist/" target="_blank">
     <img align="left" alt="Linkedin" width="26px" src="https://iconarchive.com/download/i54049/danleech/simple/linkedin.512.png" />
   </a>
@@ -19,7 +19,7 @@
 <br />
 <br />
 <div id="tech-stack" style="display: inline_block; margin-bottom: 10px">
-  <h2>💻 Tech Stack</h2>
+  <h2>💻 My favorites Technologies</h2>
   <div style="display: inline_block; margin-bottom: 10px">
   <img align="left" alt="Python" width="26px" src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" />
   <img align="left" alt="HTML" width="26px" src="https://iconarchive.com/download/i60797/graphics-vibe/developer/html-5.256.png" />
