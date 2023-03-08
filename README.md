@@ -21,11 +21,10 @@
 <div id="tech-stack" style="display: inline_block; margin-bottom: 10px">
   <h2>💻 My favorites Technologies</h2>
   <div style="display: inline_block; margin-bottom: 10px">
-  <img align="left" alt="Python" width="26px" src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico">
-  <img align="left" alt="HTML" width="26px" src="https://iconarchive.com/download/i60797/graphics-vibe/developer/html-5.256.png">
-  <img align="left" alt="CSS" width="26px" src="https://iconarchive.com/download/i60791/graphics-vibe/developer/css-3.256.png">
-  <img align="left" alt="SQL" width="26px" src="https://iconarchive.com/download/i90664/icons8/windows-8/Files-Sql.512.png">
-  <img align="left" alt="Statistic" width="26px" src="https://iconarchive.com/download/i42868/oxygen-icons.org/oxygen/Actions-view-statistics.256.png">
+  <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="left" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
 </div>
 <!--
 **tiagomelloinfo/tiagomelloinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
