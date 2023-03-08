@@ -12,7 +12,7 @@
     <img align="left" alt="Linkedin" width="26px" src="https://iconarchive.com/download/i54049/danleech/simple/linkedin.512.png">
   </a>
   <a href="https://whatsa.me/5521989669097" target="_blank">
-    <img align="left" alt="Whatsapp" width="26px" src="[https://iconarchive.com/download/i82978/limav/flat-gradient-social/Whatsapp.512.png](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)">
+    <img align="left" alt="Whatsapp" width="26px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <br>
 </div>
