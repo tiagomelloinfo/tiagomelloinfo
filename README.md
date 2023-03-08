@@ -5,7 +5,7 @@
     I have experience with pipelines, predictive models (develop and deploy), fraud risk, credit risk, tendencies analysis and data pattern analysis. 
   </p>
 </div>
-<br />
+<br>
 <div id="social-media" style="display: inline_block; margin-bottom: 10px">
   <h2>🌐 Let's Chat?</h2>
   <a href="https://www.linkedin.com/in/tiagomello-datascientist/" target="_blank">
@@ -14,10 +14,10 @@
   <a href="https://whatsa.me/5521989669097" target="_blank">
     <img align="left" alt="Whatsapp" width="26px" src="https://iconarchive.com/download/i82978/limav/flat-gradient-social/Whatsapp.512.png">
   </a>
-  <br />
+  <br>
 </div>
-<br />
-<br />
+<br>
+<br>
 <div id="tech-stack" style="display: inline_block; margin-bottom: 10px">
   <h2>💻 My favorites Technologies</h2>
   <div style="display: inline_block; margin-bottom: 10px">
