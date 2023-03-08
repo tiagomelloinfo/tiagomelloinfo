@@ -9,7 +9,7 @@
 <div id="social-media" style="display: inline_block; margin-bottom: 10px">
   <h2>🌐 Let's Chat?</h2>
   <a href="https://www.linkedin.com/in/tiagomello-datascientist/" target="_blank">
-    <img align="left" alt="Linkedin" width="26px" src="https://iconarchive.com/download/i54049/danleech/simple/linkedin.512.png">
+    <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://whatsa.me/5521989669097" target="_blank">
     <img align="left" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
