@@ -2,7 +2,7 @@
   <h1>👋 Hello there!</h1>
   <p>
     I am a Data Scientist and Machine Learn Engineer.<br />
-    I have experience with pipelines, predictive models (develop and deploy), fraud risk, credit risk, tendencies analysis and data pattern analysis. 
+    I have experience with pipelines, predictive models (develop and deploy), fraud risk, credit risk, tendencies analysis and data pattern analysis.<br />
     I use statistics skills to improve accuracy of decisions using Data-driven.
   </p>
 </div>
