@@ -3,6 +3,7 @@
   <p>
     I am a Data Scientist and Machine Learn Engineer.<br />
     I have experience with pipelines, predictive models (develop and deploy), fraud risk, credit risk, tendencies analysis and data pattern analysis. 
+    I use statistics skills to improve accuracy of decisions using Data-driven.
   </p>
 </div>
 <br>
@@ -24,7 +25,6 @@
   <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="left" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-
 </div>
 <!--
 **tiagomelloinfo/tiagomelloinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
