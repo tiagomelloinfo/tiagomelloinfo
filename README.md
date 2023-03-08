@@ -1,8 +1,8 @@
 <div id="about-me">
   <h1>👋 Hello there!</h1>
   <p>
-    I am a Software Developer and Machine Learn Engineer.<br />
-    I have made API's to automatic decision, credit engine and scripts. 
+    I am a Data Scientist and Machine Learn Engineer.<br />
+    I have experience with pipelines, predictive models (develop and deploy), fraud risk, credit risk, tendencies analysis and data pattern analysis. 
   </p>
 </div>
 <br />
