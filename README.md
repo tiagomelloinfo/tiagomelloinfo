@@ -1,9 +1,10 @@
 <div id="about-me">
   <h1>👋 Hello there!</h1>
   <p>
-    I am a Data Scientist and Machine Learn Engineer.<br />
-    I have experience with pipelines, predictive models (develop and deploy), fraud risk, credit risk, tendencies analysis and data pattern analysis.<br />
-    I use statistics skills to improve accuracy of decisions using Data-driven.
+    I am a Data Scientist with strong experience in developing end-to-end analytical solutions and transforming data into actionable insights.<br />
+    I work with data pipelines, predictive models, fraud and credit risk analysis, feature engineering, and pattern detection to support strategic and data-driven decisions.<br />
+    My background includes building dashboards and analytical tools focused on business impact, performance monitoring, and operational efficiency.<br />
+    I combine statistics, machine learning, and practical problem-solving to deliver measurable results and improve decision quality across different areas.
   </p>
 </div>
 <br>
@@ -27,7 +28,9 @@
     <img align="left" alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
     <img align="left" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
     <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img align="left" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   </div>
+</div>
 <!--
 **tiagomelloinfo/tiagomelloinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
